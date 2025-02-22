@@ -22,7 +22,7 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
 ## 📊 GitHub Stats
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&show_icons=true&include_all_commits=true&count_private=true&theme=dark&custom_title=GitHub Stats" height="155" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PranavHendre02&theme=dark&border_radius=5" height="155" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavHendre02&layout=compact&langs_count=5&theme=dark" height="155" alt="Top Languages" />
 </div>
@@ -57,7 +57,7 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="159" height="39" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/pranavhendre02?igsh=MTZjOG5idmIwN3Zqaw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
 
