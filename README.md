@@ -22,9 +22,9 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&show_icons=true&include_all_commits=true&count_private=true&theme=dark&custom_title=GitHub Stats" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=PranavHendre02&theme=dark&border_radius=5" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavHendre02&layout=compact&langs_count=5&theme=dark&custom_title=Top Languages" height="180" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&show_icons=true&include_all_commits=true&count_private=true&theme=dark&custom_title=GitHub Stats" height="155" alt="GitHub Stats" /> -->
+  <img src="https://streak-stats.demolab.com?user=PranavHendre02&theme=dark&border_radius=5" height="155" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavHendre02&layout=compact&langs_count=5&theme=dark" height="155" alt="Top Languages" />
 </div>
 
 ---
@@ -55,6 +55,9 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
   </a>
   <a href="mailto:pranavhendre07@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="159" height="39" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/pranavhendre02?igsh=MTZjOG5idmIwN3Zqaw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
 
