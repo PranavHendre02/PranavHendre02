@@ -22,7 +22,7 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavHendre02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="155" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PranavHendre02&theme=dark&border_radius=5" height="155" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavHendre02&layout=compact&langs_count=5&theme=dark" height="155" alt="Top Languages" />
 </div>
