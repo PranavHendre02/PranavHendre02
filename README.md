@@ -64,6 +64,6 @@ I believe in continuous learning, experimenting with new tech stacks, and contri
 ---
 
 <div align="center">
-  <img height="154" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
+  <img height="155" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 </div>
 
