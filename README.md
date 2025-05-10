@@ -3,6 +3,8 @@
 Hello! I'm Pranav Hendre, a 3rd-year Computer Engineering student from Pune, India. I am passionate about technology and love exploring web development, programming, and algorithms. I thrive on solving real-world problems through code and continuously learning new technologies.
 
 ---
+[Resume](https://github.com/PranavHendre02/PranavHendre02/blob/1b48ce98163c81033cf5b73bb4635396907e2213/Resume1.txt)
+---
 
 ## 🚀 Tech Journey
 
