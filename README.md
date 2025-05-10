@@ -4,7 +4,7 @@ Hello! I'm Pranav Hendre, a 3rd-year Computer Engineering student from Pune, Ind
 
 ## 📄 My Resume
 
-[View Resume](https://github.com/PranavHendre02/Pranav_Resume.pdf)
+[View Resume](https://pranavhendre02.github.io/PranavHendre02/Pranav%20Resume.pdf)
 
 ---
 
