@@ -1,0 +1,46 @@
+Pranav Hendre 
+Pune,Maharashtra 
+9823898040
+pranavhendre07@gmail.com
+
+Summary
+Computer Engineering student with moderate expertise in frontend development (HTML, CSS, JavaScript) and hands-on experience building responsive web projects. Currently learning React and backend technologies like Node.js to become a full-stack developer. Skilled in integrating APIs, building interactive dashboards, and working with IoT hardware like Arduino. Strong interest in algorithms and task optimization with a problem-solving mindset. Hardworking, self-motivated, and committed to continuous learning, project-based exploration, and personal growth.
+
+Skills
+Java programming
+Web Development
+Responsive Web Design
+API Management
+JavaScript
+C++
+Python
+HTML5
+CSS
+
+Education
+Bharati Vidyapeeth College of Engineering                   B.Tech Computer Engineering 
+07/2026
+Pune , Maharashtra
+B.Tech in Computer Engineering
+8.706 GPA/CGPA3rd Year, 6th SemesterActively exploring core and technical areas of the stream, including Analysis of Algorithms, Microprocessors & Microcontrollers, IoT, Big Data Analytics, GPU & Mobile Architecture. Building a strong foundation through hands-on projects and a focus on system-level understanding and optimization.
+
+Projects
+Weather Monitoring System -A full-stack IoT dashboard displaying real-time temperature, humidity, and heat index using data from Arduino Uno and DHT11 sensor. Includes a DC motor trigger on threshold breach, with Node.js backend, Chart.js visualization, and a responsive HTML/CSS/JS frontend.
+Chat Bot-A Gemini Flash 2.0 API-based chatbot capable of both text and image analysis. Features a minimalistic UI with a glowing black-blue theme and dynamic response generation.
+Currency Convertor -Fetches real-time currency rates via the Exchangerate API (500 requests/day limit) with live country flag updates. Built with HTML, CSS, and JavaScript for an interactive user experience.
+Exam Registration -A static frontend project designed with HTML and CSS, simulating an exam form interface. Focused on layout design and user input handling for frontend practice.
+
+Certificates
+Introduction to Generative AI for Software Development 
+Software Engineering(NPTEL IIT Kharagpur)
+Fundamental of Object Oriented Programming(NPTEL IITRoorkee)
+
+Contact
+Git Hub 
+Email 
+LinkedIn
+
+Languages
+English
+Marathi (Marāṭhī)
+Hindi
